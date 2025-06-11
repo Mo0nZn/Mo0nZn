@@ -9,7 +9,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Mo0nZn&theme=discord_old_blurple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo0nZn&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![]("💫Success is the accumulation of small efforts, repeated day and night💫")
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
