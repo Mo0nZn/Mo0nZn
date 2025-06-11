@@ -21,4 +21,4 @@
 
 </div>
 
-# 💫Success is the accumulation of small efforts, repeated day and night💫.
+# 💫Success is the accumulation of small efforts, repeated day and night.
