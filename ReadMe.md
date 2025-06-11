@@ -9,4 +9,4 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Mo0nZn&theme=discord_old_blurple&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mo0nZn&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-> 💫Success is the accumulation of small efforts, repeated day and night💫.
+# 💫Success is the accumulation of small efforts, repeated day and night💫.
