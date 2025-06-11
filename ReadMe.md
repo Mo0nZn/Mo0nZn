@@ -20,7 +20,7 @@
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kauagodinho)
 
   # 💫Success is the accumulation of small efforts, repeated day and night.
-  ![](https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif)
+  ![](https://camo.githubusercontent.com/2f5d6fa718e85341f6829c0cfa63c6b87ced91aa30c010beccf2da960d5ed1c3/68747470733a2f2f692e6962622e636f2f6432444331536e2f616e696d65736865722d636f6d2d636f64652d636f6d70757465722d68746d6c2d3139373835352e676966)
 
 </div>
 
