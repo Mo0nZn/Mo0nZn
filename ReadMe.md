@@ -19,7 +19,9 @@
   [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](#)
   [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kauagodinho)
 
+  # 💫Success is the accumulation of small efforts, repeated day and night.
+  ![](https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif)
+
 </div>
 
-# 💫Success is the accumulation of small efforts, repeated day and night.
-![](https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif)
+
