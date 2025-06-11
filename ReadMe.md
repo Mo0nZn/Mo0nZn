@@ -8,5 +8,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Mo0nZn&theme=discord_old_blurple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Mo0nZn&theme=discord_old_blurple&hide_border=false)
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<a href="mailto:kauadeveloper00@gmail.com"</a>)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauadeveloper00@gmail.com)
 # 💫Success is the accumulation of small efforts, repeated day and night💫.
