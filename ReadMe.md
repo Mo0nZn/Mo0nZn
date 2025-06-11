@@ -22,4 +22,4 @@
 </div>
 
 # 💫Success is the accumulation of small efforts, repeated day and night.
-![500](https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif)
+![100](https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif)
