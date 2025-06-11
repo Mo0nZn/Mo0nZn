@@ -22,3 +22,4 @@
 </div>
 
 # 💫Success is the accumulation of small efforts, repeated day and night.
+![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fanime-computer-gif-anime-computer-typing-discover-share-gifs--677369600229437083%2F&psig=AOvVaw1Dtzi_HQvZaIlkLAdu0uHm&ust=1749758870638000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMC0_vCV6o0DFQAAAAAdAAAAABAE)
