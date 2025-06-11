@@ -1,5 +1,5 @@
 # 💫 About Me:
-🍀I,m currently a back-end Developer student. 
+🍀I'm currently a back-end Developer student. 
 
 
 # 💻 Tech Stack:
