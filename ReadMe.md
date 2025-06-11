@@ -1,4 +1,4 @@
-## Kauã Godinho:
+## 🍃Kauã Godinho🍃
 🍀I'm currently a back-end Developer student. 
 
 
